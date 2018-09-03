@@ -1,0 +1,2 @@
+# ruby_gnuplot
+gnuplotをrubyから使用するスクリプト
