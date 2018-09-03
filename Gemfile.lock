@@ -1,0 +1,23 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    csv (3.0.0)
+    debase (0.2.2)
+      debase-ruby_core_source (>= 0.10.2)
+    debase-ruby_core_source (0.10.3)
+    gnuplot (2.6.2)
+    rake (12.3.1)
+    ruby-debug-ide (0.6.1)
+      rake (>= 0.8.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  csv
+  debase
+  gnuplot
+  ruby-debug-ide
+
+BUNDLED WITH
+   1.16.4
